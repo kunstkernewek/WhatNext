@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Oliver Scott"
 date = ""
 hero = ""
 title = "Number Twenty"
