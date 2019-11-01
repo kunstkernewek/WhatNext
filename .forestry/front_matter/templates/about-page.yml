@@ -35,6 +35,12 @@ fields:
       required: false
     label: Email
     description: Enter contact email here
+  - name: instagram
+    type: text
+    config:
+      required: false
+    label: Instagram
+    description: username in here
   label: contact info
   description: Enter contact info here
 pages:
