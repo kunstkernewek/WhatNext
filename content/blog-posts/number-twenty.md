@@ -1,7 +1,6 @@
 +++
 author = ""
 date = ""
-draft = true
 hero = ""
 title = "Number Twenty"
 type = "blog"
