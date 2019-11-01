@@ -11,4 +11,4 @@ contact_info:
 type: ''
 
 ---
-Towards the end of the year 2019, Oliver Scott got together with some people and tried to find out what would be the most useful next step for all. These are the notes.
+Towards the end of the year 2019, Oliver Scott got together with some people and tried to find out what would be the most useful next step for all. These are the notes
