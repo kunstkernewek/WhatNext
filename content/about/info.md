@@ -11,6 +11,4 @@ contact_info:
 type: ''
 
 ---
-## This is made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
-
-## To get started, import this site into Forestry or checkout the repository [here](https://github.com/kendallstrautman/starter-blog-hugo "forestry starter blog hugo").
+Towards the end of the year 2019, Oliver Scott got together with some people and tried to find out what would be the most useful next step for all. These are the notes.
