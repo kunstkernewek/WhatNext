@@ -19,3 +19,10 @@ fields:
       format: markdown
   label: Description
   description: A short definition
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  hidden: true
+  default: project
