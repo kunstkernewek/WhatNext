@@ -1,6 +1,7 @@
 ---
 label: Projects
 hide_body: true
+display_field: title_/_codename
 fields:
 - name: title_/_codename
   type: text
