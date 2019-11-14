@@ -26,3 +26,5 @@ fields:
   label: type
   hidden: true
   default: project
+pages:
+- content/project-docs/Drawing Studio.md
